@@ -1,8 +1,8 @@
-# ** Tic Tac Toe Game**
+#  **Tic Tac Toe Game**
 
 1.*Its a simple tic tac toe game made using pygame library in python*
 
-##**Libraries used**
+## **Libraries used**
   
 1. [**pygame**](https://pypi.org/project/pygame/)
 	* `pip install pygame`
